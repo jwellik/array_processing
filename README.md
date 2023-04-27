@@ -3,6 +3,8 @@ array_processing
 
 [![](https://readthedocs.org/projects/uaf-array-processing/badge/?version=master)](https://uaf-array-processing.readthedocs.io/)
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jwellik/array_processing/HEAD?urlpath=https%3A%2F%2Fgithub.com%2Fjwellik%2Farray_processing%2Fblob%2Fmaster%2Fwidget_dev001.ipynb)
+
 Various array processing tools for infrasound and seismic data. By default uses
 least-squares to determine the trace velocity and back-azimuth of a plane wave
 crossing an array in sliding time windows. More advanced processing (such as
